@@ -1,0 +1,351 @@
+[
+  {
+    "recipe_name": "Masala Omelette",
+    "ingredients": ["eggs", "onion", "tomato", "green chilli", "salt"],
+    "steps": [
+      "Beat 2 eggs in a bowl",
+      "Chop onion, tomato and green chilli finely",
+      "Mix all vegetables into the eggs with salt",
+      "Heat oil in pan and pour the mixture",
+      "Cook both sides for 2 minutes each"
+    ],
+    "time": {
+      "gas_stove": "5 mins",
+      "electric_stove": "7 mins"
+    },
+    "cuisine": "Indian"
+  },
+  {
+    "recipe_name": "Bread Toast",
+    "ingredients": ["bread", "butter", "salt"],
+    "steps": [
+      "Apply butter on both sides of bread",
+      "Place on hot pan",
+      "Toast each side for 1 minute",
+      "Sprinkle salt and serve"
+    ],
+    "time": {
+      "gas_stove": "3 mins",
+      "electric_stove": "4 mins"
+    },
+    "cuisine": "General"
+  },
+  {
+    "recipe_name": "Poha",
+    "ingredients": ["poha", "onion", "potato", "mustard seeds", "curry leaves", "turmeric", "salt", "oil", "lemon"],
+    "steps": [
+      "Wash poha in water and drain it",
+      "Heat oil in pan and add mustard seeds",
+      "Add curry leaves and chopped onion",
+      "Add chopped potato and cook for 5 minutes",
+      "Add turmeric and salt",
+      "Add washed poha and mix gently",
+      "Squeeze lemon on top and serve"
+    ],
+    "time": { "gas_stove": "15 mins", "electric_stove": "18 mins" },
+    "cuisine": "Indian",
+    "region": "Maharashtra"
+  },
+  {
+    "recipe_name": "Upma",
+    "ingredients": ["suji", "onion", "mustard seeds", "curry leaves", "green chilli", "ginger", "water", "oil", "salt"],
+    "steps": [
+      "Dry roast suji until light golden and keep aside",
+      "Heat oil and add mustard seeds",
+      "Add curry leaves, green chilli and ginger",
+      "Add onion and saute until soft",
+      "Add water and salt and bring to boil",
+      "Slowly add roasted suji stirring continuously",
+      "Cover and cook for 3 minutes and serve hot"
+    ],
+    "time": { "gas_stove": "20 mins", "electric_stove": "25 mins" },
+    "cuisine": "Indian",
+    "region": "South India"
+  },
+  {
+    "recipe_name": "Dal Tadka",
+    "ingredients": ["toor dal", "onion", "tomato", "garlic", "cumin seeds", "turmeric", "red chilli", "ghee", "salt", "coriander"],
+    "steps": [
+      "Wash and pressure cook toor dal with turmeric and salt",
+      "Heat ghee in pan and add cumin seeds",
+      "Add garlic and saute until golden",
+      "Add onion and cook until brown",
+      "Add tomato and cook until soft",
+      "Add red chilli powder and mix well",
+      "Pour tadka over cooked dal and garnish with coriander"
+    ],
+    "time": { "gas_stove": "30 mins", "electric_stove": "35 mins" },
+    "cuisine": "Indian",
+    "region": "North India"
+  },
+  {
+    "recipe_name": "Aloo Sabzi",
+    "ingredients": ["potato", "onion", "tomato", "cumin seeds", "turmeric", "red chilli", "coriander powder", "oil", "salt", "coriander leaves"],
+    "steps": [
+      "Boil potatoes and peel them",
+      "Cut potatoes into cubes",
+      "Heat oil and add cumin seeds",
+      "Add onion and cook until golden",
+      "Add tomato and all spices",
+      "Add potato cubes and mix well",
+      "Cook for 5 minutes and garnish with coriander"
+    ],
+    "time": { "gas_stove": "25 mins", "electric_stove": "30 mins" },
+    "cuisine": "Indian",
+    "region": "North India"
+  },
+  {
+    "recipe_name": "Paneer Bhurji",
+    "ingredients": ["paneer", "onion", "tomato", "green chilli", "ginger", "turmeric", "red chilli", "oil", "salt", "coriander"],
+    "steps": [
+      "Crumble paneer into small pieces",
+      "Heat oil and add chopped onion",
+      "Add ginger and green chilli",
+      "Add tomato and cook until soft",
+      "Add turmeric and red chilli powder",
+      "Add crumbled paneer and mix well",
+      "Cook for 3 minutes and garnish with coriander"
+    ],
+    "time": { "gas_stove": "15 mins", "electric_stove": "18 mins" },
+    "cuisine": "Indian",
+    "region": "North India"
+  },
+  {
+    "recipe_name": "Masala Chai",
+    "ingredients": ["tea leaves", "milk", "water", "ginger", "cardamom", "sugar", "cinnamon"],
+    "steps": [
+      "Boil water with ginger and cardamom",
+      "Add tea leaves and boil for 2 minutes",
+      "Add milk and sugar",
+      "Add cinnamon and boil for 3 more minutes",
+      "Strain and serve hot"
+    ],
+    "time": { "gas_stove": "8 mins", "electric_stove": "10 mins" },
+    "cuisine": "Indian",
+    "region": "All India"
+  },
+  {
+    "recipe_name": "Rajma",
+    "ingredients": ["rajma", "onion", "tomato", "garlic", "ginger", "cumin seeds", "turmeric", "red chilli", "garam masala", "oil", "salt"],
+    "steps": [
+      "Soak rajma overnight and pressure cook",
+      "Heat oil and add cumin seeds",
+      "Add ginger garlic paste and saute",
+      "Add onion and cook until golden",
+      "Add tomato and all spices",
+      "Add cooked rajma and mix well",
+      "Cook for 15 minutes and serve with rice"
+    ],
+    "time": { "gas_stove": "45 mins", "electric_stove": "50 mins" },
+    "cuisine": "Indian",
+    "region": "North India"
+  },
+  {
+    "recipe_name": "Chole",
+    "ingredients": ["chickpeas", "onion", "tomato", "garlic", "ginger", "chole masala", "turmeric", "oil", "salt", "coriander"],
+    "steps": [
+      "Soak chickpeas overnight and pressure cook",
+      "Heat oil and add onion",
+      "Add ginger garlic paste and cook",
+      "Add tomato and chole masala",
+      "Add cooked chickpeas and mix",
+      "Cook for 10 minutes on low flame",
+      "Garnish with coriander and serve"
+    ],
+    "time": { "gas_stove": "40 mins", "electric_stove": "45 mins" },
+    "cuisine": "Indian",
+    "region": "Punjab"
+  },
+  {
+    "recipe_name": "Jeera Rice",
+    "ingredients": ["basmati rice", "cumin seeds", "ghee", "water", "salt", "bay leaf"],
+    "steps": [
+      "Wash and soak rice for 20 minutes",
+      "Heat ghee in pan and add cumin seeds",
+      "Add bay leaf and let it splutter",
+      "Add soaked rice and mix gently",
+      "Add water and salt",
+      "Cover and cook on low flame for 15 minutes",
+      "Fluff with fork and serve"
+    ],
+    "time": { "gas_stove": "25 mins", "electric_stove": "30 mins" },
+    "cuisine": "Indian",
+    "region": "North India"
+  },
+  {
+    "recipe_name": "Palak Paneer",
+    "ingredients": ["spinach", "paneer", "onion", "tomato", "garlic", "ginger", "cream", "garam masala", "oil", "salt"],
+    "steps": [
+      "Blanch spinach in hot water and blend smooth",
+      "Heat oil and saute onion until golden",
+      "Add ginger garlic paste and cook",
+      "Add tomato and garam masala",
+      "Add spinach puree and mix well",
+      "Add paneer cubes and cook for 5 minutes",
+      "Add cream on top and serve"
+    ],
+    "time": { "gas_stove": "30 mins", "electric_stove": "35 mins" },
+    "cuisine": "Indian",
+    "region": "North India"
+  },
+  {
+    "recipe_name": "Idli Sambar",
+    "ingredients": ["idli batter", "toor dal", "onion", "tomato", "sambar powder", "tamarind", "mustard seeds", "curry leaves", "oil", "salt"],
+    "steps": [
+      "Pour idli batter into idli moulds",
+      "Steam for 10 minutes and remove",
+      "Cook toor dal with turmeric until soft",
+      "Heat oil add mustard seeds and curry leaves",
+      "Add onion tomato and sambar powder",
+      "Add tamarind water and cooked dal",
+      "Boil for 10 minutes and serve with idli"
+    ],
+    "time": { "gas_stove": "30 mins", "electric_stove": "35 mins" },
+    "cuisine": "Indian",
+    "region": "South India"
+  },
+  {
+    "recipe_name": "Aloo Paratha",
+    "ingredients": ["wheat flour", "potato", "onion", "green chilli", "cumin", "coriander", "ghee", "salt"],
+    "steps": [
+      "Boil and mash potatoes",
+      "Mix mashed potato with onion green chilli cumin and salt",
+      "Make dough with wheat flour and water",
+      "Roll dough into circle and fill with potato mixture",
+      "Seal edges and roll again gently",
+      "Cook on hot tawa with ghee both sides",
+      "Serve hot with curd and pickle"
+    ],
+    "time": { "gas_stove": "30 mins", "electric_stove": "35 mins" },
+    "cuisine": "Indian",
+    "region": "Punjab"
+  },
+  {
+    "recipe_name": "Bhindi Masala",
+    "ingredients": ["bhindi", "onion", "tomato", "cumin seeds", "turmeric", "red chilli", "coriander powder", "oil", "salt"],
+    "steps": [
+      "Wash and dry bhindi completely",
+      "Cut bhindi into small pieces",
+      "Heat oil and fry bhindi until crisp",
+      "Remove bhindi and add cumin seeds",
+      "Add onion and cook until golden",
+      "Add tomato and spices and cook",
+      "Add fried bhindi mix well and serve"
+    ],
+    "time": { "gas_stove": "20 mins", "electric_stove": "25 mins" },
+    "cuisine": "Indian",
+    "region": "North India"
+  },
+  {
+    "recipe_name": "Matar Paneer",
+    "ingredients": ["paneer", "peas", "onion", "tomato", "ginger", "garlic", "cream", "garam masala", "oil", "salt"],
+    "steps": [
+      "Heat oil and saute onion until golden",
+      "Add ginger garlic paste and cook",
+      "Add tomato and garam masala",
+      "Add peas and cook for 5 minutes",
+      "Add paneer cubes and mix gently",
+      "Add cream and cook for 3 minutes",
+      "Garnish with coriander and serve"
+    ],
+    "time": { "gas_stove": "25 mins", "electric_stove": "30 mins" },
+    "cuisine": "Indian",
+    "region": "North India"
+  },
+  {
+    "recipe_name": "Samosa",
+    "ingredients": ["wheat flour", "potato", "peas", "ginger", "green chilli", "cumin", "coriander", "oil", "salt"],
+    "steps": [
+      "Make stiff dough with flour and water",
+      "Boil and mash potatoes with peas",
+      "Mix filling with spices cumin coriander",
+      "Roll dough into oval shapes",
+      "Fill with potato mixture and seal edges",
+      "Deep fry in hot oil until golden brown",
+      "Serve hot with chutney"
+    ],
+    "time": { "gas_stove": "40 mins", "electric_stove": "45 mins" },
+    "cuisine": "Indian",
+    "region": "North India"
+  },
+  {
+    "recipe_name": "Khichdi",
+    "ingredients": ["rice", "moong dal", "turmeric", "cumin seeds", "ghee", "ginger", "salt", "water"],
+    "steps": [
+      "Wash rice and dal together",
+      "Heat ghee and add cumin seeds",
+      "Add ginger and saute",
+      "Add rice and dal and mix",
+      "Add water turmeric and salt",
+      "Pressure cook for 3 whistles",
+      "Serve hot with ghee on top"
+    ],
+    "time": { "gas_stove": "25 mins", "electric_stove": "30 mins" },
+    "cuisine": "Indian",
+    "region": "All India"
+  },
+  {
+    "recipe_name": "Rava Dosa",
+    "ingredients": ["suji", "rice flour", "maida", "onion", "green chilli", "cumin", "curry leaves", "water", "oil", "salt"],
+    "steps": [
+      "Mix suji rice flour and maida together",
+      "Add water to make thin batter",
+      "Add onion green chilli cumin and curry leaves",
+      "Rest batter for 20 minutes",
+      "Heat tawa and pour batter in circular motion",
+      "Drizzle oil on edges and cook until crisp",
+      "Serve with coconut chutney and sambar"
+    ],
+    "time": { "gas_stove": "25 mins", "electric_stove": "30 mins" },
+    "cuisine": "Indian",
+    "region": "South India"
+  },
+  {
+    "recipe_name": "Pav Bhaji",
+    "ingredients": ["potato", "peas", "capsicum", "onion", "tomato", "pav bhaji masala", "butter", "pav", "salt", "coriander"],
+    "steps": [
+      "Boil and mash all vegetables together",
+      "Heat butter and saute onion",
+      "Add tomato and pav bhaji masala",
+      "Add mashed vegetables and mix well",
+      "Cook on low flame for 10 minutes",
+      "Toast pav with butter on tawa",
+      "Serve bhaji with pav and chopped onion"
+    ],
+    "time": { "gas_stove": "35 mins", "electric_stove": "40 mins" },
+    "cuisine": "Indian",
+    "region": "Maharashtra"
+  },
+  {
+    "recipe_name": "Kadhi Pakoda",
+    "ingredients": ["besan", "curd", "onion", "mustard seeds", "curry leaves", "turmeric", "red chilli", "oil", "salt", "water"],
+    "steps": [
+      "Mix besan and curd with water to make kadhi",
+      "Cook kadhi on low flame for 20 minutes",
+      "Make pakoda batter with besan onion and spices",
+      "Deep fry pakodas until golden",
+      "Heat oil add mustard seeds and curry leaves",
+      "Add tadka to kadhi and mix",
+      "Add pakodas and serve with rice"
+    ],
+    "time": { "gas_stove": "40 mins", "electric_stove": "45 mins" },
+    "cuisine": "Indian",
+    "region": "North India"
+  },
+  {
+    "recipe_name": "Pulao",
+    "ingredients": ["basmati rice", "mixed vegetables", "onion", "whole spices", "ghee", "water", "salt", "coriander"],
+    "steps": [
+      "Wash and soak rice for 20 minutes",
+      "Heat ghee and add whole spices",
+      "Add onion and cook until golden",
+      "Add mixed vegetables and saute",
+      "Add soaked rice and mix gently",
+      "Add water and salt and bring to boil",
+      "Cover and cook on low flame for 15 minutes"
+    ],
+    "time": { "gas_stove": "30 mins", "electric_stove": "35 mins" },
+    "cuisine": "Indian",
+    "region": "All India"
+  }
+]
