@@ -23,12 +23,19 @@ Just click the link above and start asking for recipes! 🍛
 ## 🌟 **What You Can Do (Live Demo):**
 
 ✅ **Ask for any recipe** - "Chicken Biryani recipe", "Paneer Butter Masala kaise banaye"
+
 ✅ **Tell ingredients** - "I have egg and bread"
+
 ✅ **Upload fridge photos** - 📸 AI detects ingredients automatically
+
 ✅ **Voice input** - 🎙️ Speak ingredients or recipe names
+
 ✅ **Meal planning** - 📅 Generate 3-7 day meal plans
+
 ✅ **Listen to recipes** - 🔊 Audio recipe playback
+
 ✅ **Get nutrition info** - 📊 Calories, protein, carbs, fat
+
 ✅ **Multi-language support** - 🌍 English, Hindi, Marathi
 
 ---
